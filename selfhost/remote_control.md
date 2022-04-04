@@ -3,5 +3,7 @@
 ## Server
 
 [meshcentral](https://www.meshcommander.com/meshcentral2)  
+[meshcentral github](https://github.com/Ylianst/MeshCentral)  
 [dayon](https://retgal.github.io/Dayon/index.html)  
-[Remotely](https://github.com/immense/remotely) 原始 https://lucency.co/Projects  
+[dayon github](https://github.com/retgal/dayon)  
+[Remotely github](https://github.com/immense/remotely) 來原 https://lucency.co/Projects  
